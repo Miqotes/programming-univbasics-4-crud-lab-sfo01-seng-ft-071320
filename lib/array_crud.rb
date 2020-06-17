@@ -19,7 +19,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  anotherarray = ["So", "how", "can I", "help"]
+  anotherarray = ["So", "how", "can we", "arrays!"]
   anotherarray.pop()
 end
 
