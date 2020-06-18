@@ -29,12 +29,13 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  thistime = ["I", "am", "will be cool with arrays."]
+  thistime = ["I", "am", "cool with arrays."]
   thistime[1]
 end
 
 def retrieve_first_element_from_array(array)
-  
+  arraysarrays = ["wow", "i've done so many of these."]
+  arraysarrays[0]
 end
 
 def retrieve_last_element_from_array(array)
